@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Bug4Real
+- 👋 Hi, I’m Gaurav
 - 👀 I’m interested in CyberSecurity 
-- 🌱 I’m currently learning Python
-- 😄 Pronouns: Programmer, H4cker 
-- ⚡ Fun fact: Cybersecurity n Ethical Hacking  is True Love❤️
+- 🌱 I’m currently learning CyberSecurity and Ethicl Hacking
+- 😄 Pronouns: Programmer, Hacker, Gamer 
+- ⚡ Hobby : Gaming and Hacking
 
 <!---
 Bug4Real/Bug4Real is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
