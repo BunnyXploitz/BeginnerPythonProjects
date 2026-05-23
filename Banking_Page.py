@@ -16,11 +16,11 @@ def withdraw(balance):
   amount = float(input("Enter amount to withdraw: $"))
   if amount < 0:
     print("*******************")
-    print("Insufficient Funds")
+    print("Amount Should be greater than 0")
     return 0
   elif amount > balance:
     print("*******************")
-    print("Amount should be greater than 0")
+    print("Insufficient Funds")
     return 0
   else:
     return amount
