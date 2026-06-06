@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gaurav
-- 👀 I’m interested in CyberSecurity 
+- 👀 I’m Professional E-Sports Athlete 
 - 🌱 I’m currently learning CyberSecurity and Ethicl Hacking
-- 😄 Pronouns: Programmer, Hacker, Gamer 
+- 😄 Pronouns: ,E-Sports Athlete, Programmer, Hacker
 - ⚡ Hobby : Gaming and Hacking
 
 <!---
