@@ -1,5 +1,5 @@
 #Q1: Calculate 3% discount on the amount entered by the user and display the output as:
-The discount on <<amount>> is <<amount after discount>>
+#The discount on <<amount>> is <<amount after discount>>
 
 #Solution_Q1:
 amt = int(input("Enter the amount: "))
@@ -72,3 +72,25 @@ for i in range(1,11):
     elif average < 60:
         count += 0
 print("Number of Students who have scored more than 60% is",count)
+
+
+#Q7: Write a Python Program to enter Your Basic Salary, HRA and DA. Then Calculate The Gross Salary and apply tax. If Gross Salary: 10-15LPA - 20% Tax, 15-20LPA - 25% Tax, Above 20LPA - 30% Tax
+
+
+#Solution_Q7:
+b_sal = int(input('Enter Your Basic Salary:  '))
+hra = int(input('Enter Your HRA:  '))
+da = int(input('Enter Your DA:  '))
+
+g_sal = b_sal + hra + da 
+if g_sal >= 1000000 and g_sal <= 1500000:
+  tax = (g_sal/100) * 20
+  print(f'Your Tax is of amount: {tax}')
+elif g_sal >= 1500000 and g_sal <= 2000000:
+  tax = (g_sal/100) * 25
+  print(f"Your Tax is of amount: {tax}")
+elif g_sal >= 2000000:
+  tax = (g_sal/100) * 30
+  print(f'Your Tax is of amount: {tax}')
+else:
+  print('Enjoy! No Tax')  
